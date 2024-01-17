@@ -3,5 +3,8 @@ function getUniques(input) {
 }
 
 
-
+// complexity of O(1) for both insertion and lookup
+//function getUniques(input) {
+//     return Array.from(new Set(input));
+// }
 console.log(getUniques([1,2,3,4,2,3,1]));

@@ -16,3 +16,4 @@ const a = [4, 1, 40, 1, 0, 5];
 
 getSorted(a);
 console.log(a)
+
